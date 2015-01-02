@@ -13,7 +13,8 @@ On Morality (internal)
 * But that doesn't mean they should be important to you.
 * It's easy to assume people share your morals, most don't
 * Humans are distructive by nature
-* The world's average morality is improving as it becomes more connected
+* People should be judged by their actions, not their words
+* People should be judged by their actions, not their gender, color, religion, etc...
 
 On Ethics (external)
 --------------------
