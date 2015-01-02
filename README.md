@@ -3,6 +3,8 @@
 
 My public self.
 
+I state my opinions with authority, but that doesn't mean I'm right.
+
 Please feel free to create issues for discussion.
 
 ------
