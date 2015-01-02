@@ -15,6 +15,7 @@ On Morality (internal)
 * Humans are distructive by nature
 * People should be judged by their actions, not their words
 * People should be judged by their actions, not their gender, color, religion, etc...
+* Assume good faith. Never attribute to malice that which is adequately explained by stupidity.
 
 On Ethics (external)
 --------------------
