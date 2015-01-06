@@ -12,7 +12,7 @@ On Morality (internal)
 * It's important to recognize that everyone is important to someone
 * But that doesn't mean they should be important to you.
 * It's easy to assume people share your morals, most don't
-* Humans are distructive by nature
+* Humans are destructive by nature
 * People should be judged by their actions, not their words
 * People should be judged by their actions, not their gender, color, religion, etc...
 * Assume good faith. Never attribute to malice that which is adequately explained by stupidity.
@@ -26,7 +26,7 @@ On Ethics (external)
 * The death penalty should be used in extreme and certain cases to protect the public
 * Prisons should be about protecting the public, not about punishment
 * Recreational drugs should be legal and taxed
-* Owning a gun should be legal but require certification from a firearms officer verifying that they've taken a safetly course, are free of violent criminal record, and have passed a psychological mental health check.
+* Owning a gun should be legal but require certification from a firearms officer verifying that they've taken a safety course, are free of violent criminal record, and have passed a psychological mental health check.
  
 
 On Spirituality
@@ -59,7 +59,7 @@ On Health
 ---------
 * We can change our behavior and habits (it requires a lot of energy)
 * Consistently eating well and exercising is the only way to be sustainably healthy
-* Vaccinations are good for society, but shouldn't be devised or regulated by profit forcused industries
+* Vaccinations are good for society, but shouldn't be devised or regulated by profit focused industries
 
 
 On Technology
